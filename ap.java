@@ -8,6 +8,7 @@ public class ap {
 
     gato Gato = new gato("Mingau");
     Gato.miar();
+    Gato.agua();
 
     }
 }
